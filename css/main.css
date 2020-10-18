@@ -39,7 +39,7 @@ body {
   }
 
 .widgets {
-	object-fit: contain;
+ object-fit: contain;
     display: flex;
     align-items: center;
 }
