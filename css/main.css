@@ -3,58 +3,34 @@ body {
     background-color: #c04600;
 }
 /*
+	"Lucida Sans Unicode", "Lucida Grande", sans-serif
+*/
+
+
+/*
 	header
 */
-header{
-	margin: 0 auto;
-	width: 100%;
-	height: 70px;
-	display: flex;
-    align-items: left; 
-	justify-content: space-around; 
-    background: transparent;
-	position: fixed;
-	top: 0;
-	transition: 0.3s;
-	z-index: 5;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-}
-.nav-show{
-	opacity: 0;
-}
-
-header:hover{
-	opacity: 1;
-	background: var(--main-header-background);
-}
-
-.logo img{
-	padding-top: 5px;
-	height: 50px;
-	cursor: pointer;
-}
-
-.nav-bar{
-	list-style:none;
-	position: relative;
-	display: inline-flex;
-}
-
-a.nav-link{
-	margin: 2px;
-	padding: 5px 10px;
+.topnav {
+	overflow: hidden;
+	font-family: sans-serif;
+	align-items: center;
+	background-color: #b44606;
+	text-align: center;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
 	text-decoration: none;
-	color: var(--main-fonts-color);
-	font-family: var(--main-font-family);
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+	background-color: #ddd;
+	color: black;
 	cursor: pointer;
-	text-transform: uppercase;
-}
-
-.active{
-	background: var(--main-decor-color);
-}
-
-.nav-link:hover {
-	color: #000000;
-    background: var(--main-decor-color);
-}
+  }

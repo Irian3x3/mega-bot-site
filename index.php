@@ -7,25 +7,13 @@
     </head>
     <body>
         <header>
-            <nav>	
-                <!--
-                    <a class="logo" href="#home">
-                        <img src="https://newsletter-images--timmy-i-chen.repl.co/logo-light.png" alt="repl logo" />
-                    </a>
-                -->
-                <ul class="nav-bar"><div class="bg"></div>
-                   <li><a class="nav-link active" href="#">Home</a></li>
-                   <li><a class="nav-link" href="http://gg.gg/invite-mega-bot">Invite</a></li>
-                   <li><a class="nav-link" href="https://github.com/Irian3x3/Mega">GitHub Repo</a></li>
-                   <li><a class="nav-link" href="https://invite.gg/iriandev">Support Server</a></li>
-                </ul>
-                   
-                   <div class="hamburger">
-                       <div class="line1"></div>
-                   <div class="line2"></div>
-                       <div class="line3"></div>
-                   </div>
-               </nav>
+            <div class="topnav">
+                    <a href="#">Home</a> 
+                    <a href="http://gg.gg/invite-mega-bot">Invite</a> 
+                    <a href="https://invite.gg/iriandev">Support Server</a>
+                    <a style="float:right;" href="https://github.com/Irian3x3/Mega">GitHub Repo</a>
+                    <a style="float:right;"href="./vote">Vote</a> 
+            </div>
         </header>
         <h1 id="megaWord">Mega</h1>
     </body>
