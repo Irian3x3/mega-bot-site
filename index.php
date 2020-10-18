@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="./css/classes.css">
         <meta charset="utf-8">
 
-        <meta name="description">Mega: A multi-purpose bot, based on <b>Moderation</b> and more.</meta>
+        <meta name="description"content="Mega: A multi-purpose bot, based on <b>Moderation</b> and more.">
     </head>
     <body>
         <header>
