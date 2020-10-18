@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html>
     <head>
+    <title>Home | Mega</title>
+
         <link rel="stylesheet" href="./css/ids.css">
         <link rel="stylesheet" href="./css/main.css">
         <link rel="stylesheet" href="./css/classes.css">
+        <meta charset="utf-8">
+
+        <meta name="description">Mega: A multi-purpose bot, based on <b>Moderation</b> and more.</meta>
     </head>
     <body>
         <header>
             <div class="topnav">
             <h1 id="megaWord">Mega</h1>
-                    <a href="#" title="Home">Home</a> 
+                    <a href="/" title="Home">Home</a> 
                     <a href="http://gg.gg/invite-mega-bot" title="Invite Mega!">Invite</a> 
                     <a href="https://invite.gg/iriandev" title="Need help? Join the support server!">Support Server</a>
                     <a style="float:right;" href="https://github.com/Irian3x3/Mega" title="Mega's Open Source Repository">GitHub Repo</a>
