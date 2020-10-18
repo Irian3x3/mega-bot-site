@@ -12,10 +12,13 @@ body {
 */
 .topnav {
 	overflow: hidden;
-	font-family: sans-serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	align-items: center;
 	background-color: #b44606;
 	text-align: center;
+  }
+  .topnav:hover {
+	background-color: #e76012;
   }
   
   /* Style the topnav links */
@@ -34,3 +37,9 @@ body {
 	color: black;
 	cursor: pointer;
   }
+
+.widgets {
+	object-fit: contain;
+    display: flex;
+    align-items: center;
+}
