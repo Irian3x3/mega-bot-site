@@ -14,7 +14,7 @@
     <body>
         <header>
             <div class="topnav">
-            <a href="/" title="Home">Home</a> 
+            <a href="" title="Home">Home</a> 
             <a href="./invite.html" title="Invite Mega!">Invite</a> 
             <a href="https://invite.gg/iriandev" title="Need help? Join the support server!">Support Server</a>
             <a style="float:right;" href="https://github.com/Irian3x3/Mega" title="Mega's Open Source Repository">GitHub Repo</a>
@@ -85,5 +85,13 @@
 <hr>
 <h2 style="text-align:center;font-family:sans-serif;">Mega is the multi-purpose bot that you <i>need</i> in your server!</h2>
 <p style="text-align:center;font-family:sans-serif;font-size:20px"><b>Hosted on <a style="text-decoration:none;color:purple;" href="https://heroku.com">Heroku</a></b></p>
+  <!--
+    <footer>
+      <div class="topnav">
+        <a href="">Mega</a>
+        <p style="float:right;">Copyright &#169; 2020 Mega</p>
+      </div>
+  </footer>
+  -->
     </body>
 </html>

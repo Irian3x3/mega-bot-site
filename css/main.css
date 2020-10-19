@@ -110,3 +110,7 @@ hr {
 .invites:hover {
 	background-color: #e76012;
 }
+
+.wumpus {
+	font-family: sans-serif;
+}
