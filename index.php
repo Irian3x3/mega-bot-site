@@ -19,6 +19,8 @@
             <a style="float:right;" href="https://github.com/Irian3x3/Mega" title="Mega's Open Source Repository">GitHub Repo</a>
             <a style="float:right;"href="./vote" title="Vote for Mega">Vote</a>
             </div>
+        </header>
+
             <div class="desc">
             <h1 style="text-align:center;">Mega</h1>
     <!--Widgets thingies-->
@@ -73,9 +75,9 @@
   	</li>
   </ul>
 </div>
-  </body>
-  
- </html>
-        </header>
+<h2 style='text-align:center;font-family:sans-serif'>Currently Serving:</h2>
+<a href="https://top.gg/bot/746855438296809522">
+  <img src="https://top.gg/api/widget/servers/746855438296809522.svg?noavatar=true" alt="Servers" style="display: block;margin-left: auto;margin-right: auto;">
+</a>
     </body>
 </html>
