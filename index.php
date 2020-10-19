@@ -13,7 +13,6 @@
     <body>
         <header>
             <div class="topnav">
-            <h1 id="megaWord">Mega</h1>
             <a href="/" title="Home">Home</a> 
             <a href="http://gg.gg/invite-mega-bot" title="Invite Mega!">Invite</a> 
             <a href="https://invite.gg/iriandev" title="Need help? Join the support server!">Support Server</a>
