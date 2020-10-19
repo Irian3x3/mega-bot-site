@@ -20,6 +20,7 @@
             <a style="float:right;"href="./vote" title="Vote for Mega">Vote</a>
             </div>
         </header>
+        <hr width="90%">
 
             <div class="desc">
             <h1 style="text-align:center;">Mega</h1>
