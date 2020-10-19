@@ -150,11 +150,32 @@ hr {
 .button-1:hover {
 	background-color: #e76012;
 }
-
+/*
 #lol {
 	cursor: default;
 }
 
 #lol e ::after {
 	padding-left: 0px;
+}*/
+
+/*.this-is-a-thing {
+	visibility: hidden;	
+	margin-left: 10px;
+	font-size: 22px;
+	-ms-flex-item-align: center;
+	align-self: center;
+	background: url(https://discord.com/assets/40e8a44f9e49d1d30b81b03f7065b738.svg);
+	width: 14px;
+	height: 14px;
+}*/
+
+h3 a{
+	text-decoration: none;
+	color: black;
+}
+
+.stfu {
+	text-decoration: none;
+	color: black;
 }

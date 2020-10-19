@@ -19,15 +19,19 @@
             <a href="https://invite.gg/iriandev" title="Need help? Join the support server!">Support Server</a>
             <a style="float:right;" href="https://github.com/Irian3x3/Mega" title="Mega's Open Source Repository">GitHub Repo</a>
             <a style="float:right;"href="./vote" title="Vote for Mega">Vote</a>
-            <a id="lol e" style="float:right;" href="./login.html">Login with Discord
+            <!--<a id="lol e" style="float:right;" href="./login.html">Login with Discord
           ::after
-        </a>
+        </a>-->
             </div>
         </header>
         <a id="lol" href="./wumpus.html"><hr></a>
 
             <div class="desc">
-            <h1 style="text-align:center;">Mega</h1>
+              <h1 style="text-align:center;" id="mega">
+                <a href="#mega" class="stfu">
+                  Mega
+                </a>
+              </h1>
     <!--Widgets thingies-->
     <div class="widgets">
       <a href="https://top.gg/bot/746855438296809522">
@@ -43,7 +47,9 @@
     </div>
   <!--Widgets thingies end here :D-->
   
-  <h3 style="text-align:center">Who is Mega?</h3>
+  <h3 style="text-align:center" id="who-is-mega">
+    <a href="#who-is-mega">Who is Mega?</a>
+  </h3>
   <p>
   <em><b>Mega</b> is a multi-purpose bot, mainly being based around moderation. It does have more than just that, such as:
     <ul>
@@ -58,7 +64,9 @@
       </li>
     </ul></em>
   </p>
-  <h3 style="text-align:center;">Why should I invite Mega?</h3>
+  <h3 style="text-align:center;" id="why-invite">
+    <a href="#why-invite">Why should I invite Mega?</a>
+  </h3>
   <ul>
   	<li>
       ✅ 24/7 Online
