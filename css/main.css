@@ -38,8 +38,21 @@ body {
 	cursor: pointer;
   }
 
+.desc {
+	font-family: sans-serif;
+	background-color: #c34d08;
+	width: 600px;
+	margin: 0 auto;
+	padding: 10px;
+}
+.desc:hover {
+	background-color: #e76012;
+}
+
 .widgets {
- object-fit: contain;
-    display: flex;
-    align-items: center;
+	text-align: center;
+}
+
+.widgets a {
+	text-decoration: none;
 }
