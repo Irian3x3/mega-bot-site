@@ -1,6 +1,7 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-	background-color: #c04600;
+	/*background-color: #c04600;*/
+	background-image: linear-gradient(#c04600, #d33708);
 }
 /*
 	"Lucida Sans Unicode", "Lucida Grande", sans-serif
