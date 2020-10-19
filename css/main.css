@@ -43,7 +43,7 @@ body {
 	background-color: #c34d08;
 	width: 600px;
 	margin: 0 auto;
-	padding: 10px;
+	padding: 5px;
 }
 .desc:hover {
 	background-color: #e76012;
@@ -80,4 +80,9 @@ body {
 
 .vote h3 a:hover {
 	color: black;
+}
+
+hr {
+	width: 90%;
+	color: #e76012;
 }
