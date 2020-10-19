@@ -87,3 +87,9 @@ hr {
 	width: 90%;
 	color: #e76012;
 }
+
+.NotFound404 {
+	text-align:center;
+	color: black;
+	font-family: sans-serif;
+}
