@@ -114,3 +114,47 @@ hr {
 .wumpus {
 	font-family: sans-serif;
 }
+
+.Button-Thing {
+	padding-top: 20%;
+	padding-left: 38%;   
+   }
+   
+   .button-1 {
+	 color: rgb(255, 255, 255);
+	 border: 2px solid #ffffff;
+	 width: 30%;
+	 border: solid;
+	 border-radius: 30px;
+	 text-align: center;
+	 overflow: hidden;
+	 font-family: sans-serif;
+	 align-items: center;
+	 background-color: #c34d08;
+	 text-align: center;
+   }
+   
+   .button-1 {
+	   float: left;
+	   display: block;
+	   color: #f2f2f2;
+	   text-align: center;
+	   padding: 14px 16px;
+	   text-decoration: none;
+   }
+   
+ /*  .button-1 a:hover {
+	 cursor: pointer;
+   }*/
+
+.button-1:hover {
+	background-color: #e76012;
+}
+
+#lol {
+	cursor: default;
+}
+
+#lol e ::after {
+	padding-left: 0px;
+}

@@ -19,9 +19,12 @@
             <a href="https://invite.gg/iriandev" title="Need help? Join the support server!">Support Server</a>
             <a style="float:right;" href="https://github.com/Irian3x3/Mega" title="Mega's Open Source Repository">GitHub Repo</a>
             <a style="float:right;"href="./vote" title="Vote for Mega">Vote</a>
+            <a id="lol e" style="float:right;" href="./login.html">Login with Discord
+          ::after
+        </a>
             </div>
         </header>
-        <hr>
+        <a id="lol" href="./wumpus.html"><hr></a>
 
             <div class="desc">
             <h1 style="text-align:center;">Mega</h1>
@@ -85,13 +88,20 @@
 <hr>
 <h2 style="text-align:center;font-family:sans-serif;">Mega is the multi-purpose bot that you <i>need</i> in your server!</h2>
 <p style="text-align:center;font-family:sans-serif;font-size:20px"><b>Hosted on <a style="text-decoration:none;color:purple;" href="https://heroku.com">Heroku</a></b></p>
+
+  <div class="Button-Thing">
+                <!--<a href="./wumpus.html" class="button-1">This button does nothing. Don't click me.</a>-->
+            </div>
+
   <!--
     <footer>
       <div class="topnav">
         <a href="">Mega</a>
+        <a href="./wumpus.html">Wumpus</a>
         <p style="float:right;">Copyright &#169; 2020 Mega</p>
       </div>
   </footer>
-  -->
+
+-->
     </body>
 </html>
