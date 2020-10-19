@@ -8,7 +8,8 @@
 
         <meta charset="utf-8">
 
-        <meta name="description"content="Mega: A multi-purpose bot, based on <b>Moderation</b> and more.">
+        <meta name="theme-color" content="#fc7b03">
+        <meta name="description"content="Mega: A multi-purpose bot, based on Moderation and more.">
     </head>
     <body>
         <header>
