@@ -93,3 +93,20 @@ hr {
 	color: black;
 	font-family: sans-serif;
 }
+
+.invites {
+	font-family: sans-serif;
+	background-color: #c34d08;
+	width: 600px;
+	margin: 0 auto;
+	padding: 5px;
+}
+
+.invites a {
+	text-decoration: none;
+	color: purple;
+}
+
+.invites:hover {
+	background-color: #e76012;
+}

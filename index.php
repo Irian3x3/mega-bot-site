@@ -5,7 +5,7 @@
 
         <link rel="stylesheet" href="./css/ids.css">
         <link rel="stylesheet" href="./css/main.css">
-        <link rel="stylesheet" href="./css/classes.css">
+
         <meta charset="utf-8">
 
         <meta name="description"content="Mega: A multi-purpose bot, based on <b>Moderation</b> and more.">
@@ -14,7 +14,7 @@
         <header>
             <div class="topnav">
             <a href="/" title="Home">Home</a> 
-            <a href="http://gg.gg/invite-mega-bot" title="Invite Mega!">Invite</a> 
+            <a href="./invite.html" title="Invite Mega!">Invite</a> 
             <a href="https://invite.gg/iriandev" title="Need help? Join the support server!">Support Server</a>
             <a style="float:right;" href="https://github.com/Irian3x3/Mega" title="Mega's Open Source Repository">GitHub Repo</a>
             <a style="float:right;"href="./vote" title="Vote for Mega">Vote</a>
