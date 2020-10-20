@@ -18,7 +18,7 @@ body {
 	align-items: center;
 	background-color: #b44606;
 	text-align: center;
-	padding: 0 calc((100% - 600px) / 2);
+	padding: 0 calc((100% - 720px) / 2.2);
   }
   .topnav:hover {
 	background-color: #e76012;
