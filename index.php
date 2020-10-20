@@ -13,7 +13,7 @@
     </head>
     <body>
         <header>
-            <div class="topnav">
+            <div class="topnav" style="padding: 0 calc((100% - 600px) / 2);">
             <a href="" title="Home">Home</a> 
             <a href="./invite.html" target="_blank" title="Invite Mega!">Invite</a> 
             <a href="https://invite.gg/iriandev" target="_blank" title="Need help? Join the support server!">Support Server</a>
