@@ -8,6 +8,8 @@
 
         <meta charset="utf-8">
 
+        <link rel="icon" type="image/png" href="https://cdn.discordapp.com/avatars/746855438296809522/d0b08e077de3ec1e8a036cd894f16120">
+
         <meta name="theme-color" content="#fc7b03">
         <meta name="description"content="Mega: A multi-purpose bot, based on Moderation and more.">
     </head>
