@@ -13,7 +13,7 @@
     </head>
     <body>
         <header>
-            <div class="topnav" style="padding: 0 calc((100% - 600px) / 2);">
+            <div class="topnav">
             <a href="" title="Home">Home</a> 
             <a href="./invite.html" target="_blank" title="Invite Mega!">Invite</a> 
             <a href="https://invite.gg/iriandev" target="_blank" title="Need help? Join the support server!">Support Server</a>
@@ -24,7 +24,7 @@
         </a>-->
             </div>
         </header>
-        <a id="lol" href="./wumpus.html"><hr></a>
+        <a id="lol" style="cursor:default;" href="./wumpus.html"><hr></a>
 
             <div class="desc">
               <h1 style="text-align:center;" id="mega">
