@@ -2,6 +2,7 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 	/*background-color: #c04600;*/
 	background-image: linear-gradient(#c04600, #d33708);
+	margin: 0;
 }
 /*
 	"Lucida Sans Unicode", "Lucida Grande", sans-serif
@@ -116,7 +117,6 @@ hr {
 }
 
 .Button-Thing {
-	padding-top: 20%;
 	padding-left: 38%;   
    }
    
