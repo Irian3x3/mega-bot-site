@@ -19,11 +19,9 @@
             <a href="" title="Home">Home</a> 
             <a href="./invite.html" target="_blank" title="Invite Mega!">Invite</a> 
             <a href="https://invite.gg/iriandev" target="_blank" title="Need help? Join the support server!">Support Server</a>
+            <!--<a style="float:right;" href="./login.html">Login with Discord</a>-->
             <a style="float:right;" href="https://github.com/Irian3x3/Mega" title="Mega's Open Source Repository">GitHub Repo</a>
             <a style="float:right;" href="./vote" title="Vote for Mega">Vote</a>
-            <!--<a id="lol e" style="float:right;" href="./login.html">Login with Discord
-          ::after
-        </a>-->
             </div>
         </header>
         <a id="lol" style="cursor:default;" href="./wumpus.html"><hr></a>
@@ -93,9 +91,11 @@
 </div>
 <hr>
 <h2 style='text-align:center;font-family:sans-serif'>Currently Serving:</h2>
-<a href="https://top.gg/bot/746855438296809522">
-  <img src="https://top.gg/api/widget/servers/746855438296809522.svg?noavatar=true" alt="Servers" style="display: block;margin-left: auto;margin-right: auto;">
-</a>
+<center>
+  <a href="https://top.gg/bot/746855438296809522">
+      <img src="https://top.gg/api/widget/servers/746855438296809522.svg?noavatar=true" alt="Servers">
+  </a>
+</center>
 <hr>
 <h2 style="text-align:center;font-family:sans-serif;">Mega is the multi-purpose bot that you <i>need</i> in your server!</h2>
 <p style="text-align:center;font-family:sans-serif;font-size:20px"><b>Hosted on <a style="text-decoration:none;color:purple;" href="https://heroku.com">Heroku</a></b></p>
