@@ -34,16 +34,17 @@
               </h1>
     <!--Widgets thingies-->
     <div class="widgets">
-      <a href="https://top.gg/bot/746855438296809522">
+      <a href="https://top.gg/bot/746855438296809522" title="Lib">
         <img src="https://top.gg/api/widget/lib/746855438296809522.svg?noavatar=true" alt="Mega" />
       </a>
-      <a href="https://top.gg/bot/746855438296809522">
+      <a href="https://top.gg/bot/746855438296809522" title="Upvotes">
         <img src="https://top.gg/api/widget/upvotes/746855438296809522.svg?noavatar=true" alt="Mega"/>
+      </a>
+      <a href="https://top.gg/bot/746855438296809522" title="Status">
         <img src="https://top.gg/api/widget/status/746855438296809522.svg?noavatar=true" alt="Mega" />
       </a>
-      <a href="https://top.gg/bot/746855438296809522">
+      <a href="https://top.gg/bot/746855438296809522" title="Owner">
         <img src="https://top.gg/api/widget/owner/746855438296809522.svg?noavatar=true" alt="Mega"/>
-      </a>
     </div>
   <!--Widgets thingies end here :D-->
   
