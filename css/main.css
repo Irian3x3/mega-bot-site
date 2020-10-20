@@ -71,16 +71,16 @@ body {
 	background-color: #e76012;
 }
 
-.vote h3 {
+.vote h2 {
 	text-align: center;
 }
 
-.vote h3 a {
+.vote h2 a {
 	text-decoration: none;
 	color: white;
 }
 
-.vote h3 a:hover {
+.vote h2 a:hover {
 	color: black;
 }
 
