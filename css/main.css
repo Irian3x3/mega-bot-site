@@ -1,3 +1,8 @@
+:root {
+	--main-color: #b44606;
+	--color-hover: #e76012;
+}
+
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 	/*background-color: #c04600;*/
@@ -16,7 +21,7 @@ body {
 	overflow: hidden;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	align-items: center;
-	background-color: #b44606;
+	background-color: var(--main-color);
 	text-align: center;
 	padding: 0 calc((100% - 720px) / 2.2);
   }
@@ -171,4 +176,38 @@ h3 a{
 .stfu {
 	text-decoration: none;
 	color: black;
+}
+
+.status {
+	font-family: sans-serif;
+	background-color: #c34d08;
+	width: 600px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+.status:hover {
+	background-color: #e76012;
+}
+
+.icon.outbound {
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    top: -1px;
+}
+
+a:hover .icon.outbound {
+	color: black;
+}
+
+.mega-logo {
+	background-image: url(https://cdn.discordapp.com/avatars/746855438296809522/d0b08e077de3ec1e8a036cd894f16120);
+}*/
+
+.footer {
+	background-color: black;
+	display: block;
+	color: white;
 }
