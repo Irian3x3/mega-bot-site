@@ -1,0 +1,27 @@
+.widget-owner {
+    background-image: url(https://top.gg/api/widget/owner/746855438296809522.svg?noavatar=true);
+    width: 165px;
+    display: inline-block;
+    height: 20px;
+}
+
+.widget-votes {
+    background-image: url(https://top.gg/api/widget/upvotes/746855438296809522.svg?noavatar=true);
+    width: 123px;
+    display: inline-block;
+    height: 20px;
+}
+
+.widget-lib {
+    background-image: url(https://top.gg/api/widget/lib/746855438296809522.svg?noavatar=true);
+    width: 135px;
+    display: inline-block;
+    height: 20px;
+}
+
+.widget-status {
+    background-image: url(https://top.gg/api/widget/status/746855438296809522.svg?noavatar=true);
+    width: 123px;
+    display: inline-block;
+    height: 20px;
+}
